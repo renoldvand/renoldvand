@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header1](img/banner/header-1.png)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=renoldvand)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=renoldvand&card_width=800&card_height=195)](https://git.io/streak-stats)
 
 #### I Have Skills In:
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
