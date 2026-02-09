@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 
 #### I Play:
 <img src="https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white" />
+
+<img src="https://raw.githubusercontent.com/renoldvand/renoldvand/output/snake.svg" alt="Snake animation" />
