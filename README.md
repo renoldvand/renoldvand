@@ -1,30 +1,57 @@
 <!--
-**renoldvand/renoldvand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**renoldvand/renoldvand** is a ✨ special ✨ repository because its `README.md`
+appears on your GitHub profile.
 -->
 
-![header1](img/banner/header-1.png)
+<p align="center">
+  <img src="img/banner/header-1.png" alt="Header Banner" width="100%" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=renoldvand&card_width=1000&card_height=195)](https://git.io/streak-stats)
+<h1 align="center">Hi there 👋, I'm Renold</h1>
 
-#### I Have Skills In:
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<!-- <img src="" /> -->
+<p align="center">
+  Front-End Web Developer Enthusiast from Indonesia 🇮🇩
+</p>
 
-#### I Play:
-<img src="https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white" />
+---
 
-<img src="https://raw.githubusercontent.com/renoldvand/renoldvand/output/snake.svg" alt="Snake animation" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=renoldvand&card_width=1000&card_height=195" 
+      alt="GitHub Streak" 
+    />
+  </a>
+</p>
+
+---
+
+## 💻 Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+---
+
+## 🎮 Games I Play
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PlayStation%202-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/renoldvand/renoldvand/output/snake.svg" 
+    alt="Snake animation" 
+  />
+</p>
