@@ -1,16 +1,47 @@
 <!--
-**renoldvand/renoldvand** is a ✨ special ✨ repository because its `README.md`
-appears on your GitHub profile.
+██████╗  █████╗ ███╗   ███╗ █████╗ 
+██╔══██╗██╔══██╗████╗ ████║██╔══██╗
+██████╔╝███████║██╔████╔██║███████║
+██╔══██╗██╔══██║██║╚██╔╝██║██╔══██║
+██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+
+GitHub Profile README
 -->
 
 <p align="center">
-  <img src="img/banner/header-1.png" alt="Header Banner" width="100%" />
+  <img src="img/banner/header-1.png" width="100%" alt="Banner" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Renold</h1>
+<h1 align="center">Hi 👋, I'm Rama Juliantara</h1>
+
+<h3 align="center">
+  Student & Web Developer Enthusiast from Indonesia 🇮🇩
+</h3>
 
 <p align="center">
-  Front-End Web Developer Enthusiast from Indonesia 🇮🇩
+  💻 SMKN 1 Denpasar — Grade 11 RPL <br>
+  🚀 Interested in Web Development, PHP Backend, and Python Programming
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Student at **SMKN 1 Denpasar**
+- 🌱 Currently learning **Frontend & Backend Development**
+- 💡 Love building projects to improve my programming skills
+- 🧠 Interested in **PHP, JavaScript, Python, and Web UI**
+- ⚡ Focused on becoming a better developer every day
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,python,git,bootstrap,vscode" />
+
 </p>
 
 ---
@@ -18,28 +49,14 @@ appears on your GitHub profile.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=renoldvand&card_width=1000&card_height=195" 
-      alt="GitHub Streak" 
-    />
-  </a>
+  <img 
+    src="https://streak-stats.demolab.com?user=renoldvand&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
 
-## 💻 Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
----
-
-## 🎮 Games I Play
+## 🎮 Interests
 
 <p align="center">
   <img src="https://img.shields.io/badge/PlayStation%202-003791?style=for-the-badge&logo=playstation&logoColor=white" />
@@ -54,4 +71,28 @@ appears on your GitHub profile.
     src="https://raw.githubusercontent.com/renoldvand/renoldvand/output/snake.svg" 
     alt="Snake animation" 
   />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:ramajuliantara2207@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/raajuull_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/renoldvand">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile ✨
 </p>
